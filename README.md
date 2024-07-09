@@ -497,6 +497,7 @@ def main():
     print(f"Results saved to {args.output}")
     print("End of simulation")
     print("Thank you for using the simulator")
+    print("Thank you for using the simulator")
 
 if __name__ == "__main__":
     main()
